@@ -17,7 +17,7 @@ echo "
 "
 
 echo "Updating Your System and Installing Dependencies..."
-sleep 3
+sleep 14
 clear
 
 apt update
@@ -94,6 +94,5 @@ echo "Performing Fix-Shebang..."
 $PREFIX/bin/find -type f -executable -exec termux-fix-shebang \{\} \;
 echo"
 You can now run the metasploit by ./msfconsole"
-ehco"make a payload like a pro 🤓 🤓 🤓 🤓"
-echo"ok bro let's enjoy with this biggest tool😍😎😎"
-echo"for any problem knock me on ∆Facebbok"
+ehco"make a payload like a pro 
+
