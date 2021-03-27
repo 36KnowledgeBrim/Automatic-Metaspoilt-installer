@@ -1,4 +1,4 @@
-#Author_Ariful Anik ,plscr...
+#Author_Ariful Anik ...
 #!usr/bin/bash
 clear
 echo "
@@ -94,5 +94,5 @@ echo "Performing Fix-Shebang..."
 $PREFIX/bin/find -type f -executable -exec termux-fix-shebang \{\} \;
 echo"
 You can now run the metasploit by ./msfconsole"
-ehco"make a payload like a pro 
+ehco"make a payload like a pro "
 
